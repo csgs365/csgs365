@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /linchengshi/private/
+
+Sitemap: https://csgs365.com/sitemap.xml
